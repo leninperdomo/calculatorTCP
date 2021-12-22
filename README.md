@@ -1,4 +1,4 @@
-# calculatorTCP
+# calculatorTCP&UDP
 Calculator Implemented with a Client and Server Over a TCP Connection and UDP Connection
 
 The goal of this project was to implement a calculator that performs basic arithmetic operations using a TCP and UDP connection. The TCP program works in the following way: First, the client reads individual lines from a text that should contain a single mathematical operation. The client then sends each of these lines to the server
